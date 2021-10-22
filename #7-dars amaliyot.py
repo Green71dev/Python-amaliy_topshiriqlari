@@ -7,7 +7,7 @@ Created on Wed Sep 15 12:52:53 2021
 # ismlar = ["asilbek", "oybek", "husan"]
 # print(ismlar)
 
-# ismlar = ["asilbek", "oybek", "husan"]
+# ismlar = ["Asilbek", "Oybek", "Husan"]
 # print(ismlar[0], "Salom \n", ismlar[1], "bugun Choyxona borma \n", ismlar[2], "Choyxonaga borasanma?")
 
 # sonlar = [14, -8, 28.5, 29]
